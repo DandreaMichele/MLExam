@@ -1,3 +1,16 @@
+# Seutp
+To setup the exam we first need to download the data. Run the following command:
+
+```bash
+source setup.sh
+```
+Now just be sure to have a proper conda enviorament with these requirements:
+- "torch==2.1.0"
+- "dgl==2.2.1"
+- "matplotlib==3.9.0"
+
+
+
 # Detection of quenches of superconducting cables from heat map sequences
 
 ## Introduction
